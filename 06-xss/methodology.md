@@ -79,4 +79,7 @@ The following alone do **not** confirm XSS:
 
 Document the exact rendering context and execution result when reporting a
 confirmed finding.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 39c813b (Fixed whitespaces in the methodology.md)

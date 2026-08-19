@@ -109,5 +109,3 @@ same file differently in a security-relevant way.
 
 Document the exact observed behavior and demonstrated impact rather than
 assuming that acceptance alone constitutes a vulnerability.
-
-```

@@ -1,4 +1,4 @@
-# 05 — Executable Content
+# 05 — Executable Con
 
 ## Payloads
 
@@ -69,5 +69,3 @@ indicates that the source was returned and the payload was **not executed**.
 
 A successful upload (`200`, `201`, etc.) alone does not confirm server-side
 execution.
-
-```
