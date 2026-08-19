@@ -1,0 +1,3 @@
+<?php
+echo "VAPT-PHP-EXECUTION-TEST-001";
+?>
